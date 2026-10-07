@@ -1,3 +1,3 @@
 # Carpe Diem
-# Definition: 
-# Seize the Day
+Definition: 
+Seize the Day
